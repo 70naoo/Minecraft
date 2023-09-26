@@ -27,7 +27,6 @@ public final class Main extends JavaPlugin implements Listener {
   private int count;
 
 
-
   @Override
   public void onEnable() {
     Bukkit.getPluginManager().registerEvents(this, this);
